@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">คำนวนเกรด</string>
+    <string name="grade">คะแนน</string>
+    <string name="ok_button">แสดง</string>
+    <string name="reset_button">คืนค่า</string>
+    <string name="next_button">ถัดไป</string>
+    <string name="back_button">ย้อนกลับ</string>
+</resources>

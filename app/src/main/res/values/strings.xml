@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">grade</string>
+    <string name="grade">grade</string>
+    <string name="reset_button">reset</string>
+    <string name="ok_button">show</string>
+    <string name="show_grade_TextView"></string>
+    <string name="next_button">next</string>
+    <string name="back_button">back</string>
+</resources>
